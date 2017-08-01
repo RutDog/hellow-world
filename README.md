@@ -1,2 +1,2 @@
-# hellow-world
-第一次git
+# hello-world
+If u want get everyday, please git everyday.
